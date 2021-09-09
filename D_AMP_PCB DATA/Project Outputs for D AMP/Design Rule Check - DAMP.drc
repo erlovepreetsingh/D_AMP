@@ -1,0 +1,105 @@
+Protel Design System Design Rule Check
+PCB File : C:\Users\Public\Documents\Altium\Projects\D AMP\DAMP.PcbDoc
+Date     : 30-08-2021
+Time     : 02:04:26 PM
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) ((InDifferentialPairClass('All Differential Pairs'))),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.254mm) (InNetClass('Vin')),(InNet('GND'))
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.508mm) (InNetClass('EXCEPT_DIFF')),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0mm) (Disabled)(InPolygon),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.13mm) (InPolygon),(All)
+Rule Violations :0
+
+Processing Rule : Clearance Constraint (Gap=0.5mm) (IsStitchingVia and InNet('GND')),((IsVia and (Not IsStitchingVia)) Or IsPad)
+Rule Violations :0
+
+Processing Rule : Short-Circuit Constraint (Allowed=No) (All),(All)
+Rule Violations :0
+
+Processing Rule : Un-Routed Net Constraint ( (All) )
+Rule Violations :0
+
+Processing Rule : Modified Polygon (Allow modified: No), (Allow shelved: No)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=1.524mm) (Max=1.524mm) (Preferred=1.524mm) (InNetClass('3.9V_5A'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.5mm) (Max=1.524mm) (Preferred=1.27mm) (InNetClass('Vin'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.508mm) (Max=0.508mm) (Preferred=0.508mm) (InNetClass('5V_1A'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.127mm) (Max=1.143mm) (Preferred=0.127mm) (All)
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=0.254mm) (Preferred=0.254mm) (InNetClass('1.8V/3.3V_100-200mA'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.762mm) (Max=0.762mm) (Preferred=0.762mm) (InNetClass('Vbat/Vsys'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.254mm) (Max=1.27mm) (Preferred=0.508mm) (InNetClass('4AMP_Line'))
+Rule Violations :0
+
+Processing Rule : Width Constraint (Min=0.5mm) (Max=1.524mm) (Preferred=1.27mm) (InNetClass('Vmains'))
+Rule Violations :0
+
+Processing Rule : Power Plane Connect Rule(Relief Connect )(Expansion=0.508mm) (Conductor Width=0.254mm) (Air Gap=0.254mm) (Entries=4) (InNetClass('4AMP_Line'))
+Rule Violations :0
+
+Processing Rule : Minimum Annular Ring (Minimum=0.13mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole Size Constraint (Min=0.2mm) (Max=6.3mm) (All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.5mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Hole To Hole Clearance (Gap=0.5mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Minimum Solder Mask Sliver (Gap=0.095mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Silk To Solder Mask (Clearance=0.07mm) (IsPad),(All)
+Rule Violations :0
+
+Processing Rule : Silk to Silk (Clearance=0.06mm) (All),(All)
+Rule Violations :0
+
+Processing Rule : Net Antennae (Tolerance=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Board Clearance Constraint (Gap=0mm) (All)
+Rule Violations :0
+
+Processing Rule : Room LPF Section (Bounding Region = (51.943mm, 4.826mm, 100.457mm, 90.297mm) (Disabled)(InComponentClass('LPF Section'))
+Rule Violations :0
+
+Processing Rule : Room Power Section (Bounding Region = (0.006mm, 9.55mm, 34.239mm, 96.901mm) (Disabled)(InComponentClass('Power Section'))
+Rule Violations :0
+
+Processing Rule : Room TPA3220 (Bounding Region = (0.006mm, 0.006mm, 99.822mm, 96.825mm) (Disabled)(InComponentClass('TPA3220'))
+Rule Violations :0
+
+Processing Rule : Room I/O Section & Ctrl (Bounding Region = (0.006mm, 33.042mm, 52.451mm, 97.053mm) (Disabled)(InComponentClass('I/O Section & Ctrl'))
+Rule Violations :0
+
+Processing Rule : Height Constraint (Min=0mm) (Max=25.4mm) (Prefered=12.7mm) (Disabled)(All)
+Rule Violations :0
+
+
+Violations Detected : 0
+Waived Violations : 0
+Time Elapsed        : 00:00:02

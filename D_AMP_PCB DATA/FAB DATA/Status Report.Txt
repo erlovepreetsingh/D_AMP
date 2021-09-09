@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [Free Documents]
+   Generated File[DAMP.TXT]
+   Generated File[DAMP.LDP]
+   Generated File[DAMP.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 06:45:20 PM On 30-08-2021

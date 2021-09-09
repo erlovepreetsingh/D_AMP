@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=PVDD Pin=F1-1
+Removed Member From Class: ClassName=Power Section Member=F1
+Removed Member From Class: ClassName=Power Section Member=F3
+Added Pin To Net: NetName=PVDD Pin=C21-2
+Added Pin To Net: NetName=PVDD Pin=C22-2
+Added Pin To Net: NetName=PVDD Pin=J1-1
+Added Pin To Net: NetName=PVDD Pin=LT1-9
+Added Pin To Net: NetName=PVDD Pin=LT1-10
+Added Pin To Net: NetName=PVDD Pin=TP2-1

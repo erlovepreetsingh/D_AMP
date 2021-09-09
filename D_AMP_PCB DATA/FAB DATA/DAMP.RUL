@@ -1,0 +1,18 @@
+DRC Rules Export File for PCB: C:\Users\Public\Documents\Altium\Projects\D AMP\DAMP.PcbDoc
+RuleKind=Clearance|RuleName=Stitching GND|Scope=Board|Minimum=19.69
+RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=5.12
+RuleKind=Width|RuleName=Width_4AMP|Scope=Board|Minimum=10.00
+RuleKind=MinimumAnnularRing|RuleName=MinimumAnnularRing|Scope=Board|Minimum=5.12
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=1.97
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=5.00
+RuleKind=Width|RuleName=Width_1.8V/3.3V|Scope=Board|Minimum=10.00
+RuleKind=Width|RuleName=Width_5V|Scope=Board|Minimum=20.00
+RuleKind=Width|RuleName=Width_3.9V|Scope=Board|Minimum=60.00
+RuleKind=Width|RuleName=Width_Vin|Scope=Board|Minimum=19.69
+RuleKind=Width|RuleName=Width_Vmains|Scope=Board|Minimum=19.69
+RuleKind=Width|RuleName=Width_Vbat/Vsys|Scope=Board|Minimum=30.00
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=20.00
+RuleKind=Clearance|RuleName=Clearance_KO|Scope=Board|Minimum=0.00
+RuleKind=Clearance|RuleName=Clearance_Diff|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance_24V_VIN|Scope=Board|Minimum=10.00
